@@ -19,14 +19,17 @@ redirect_from:
 
 # About Me
 
-Greetings! I am a first year PhD student in Computer Science at University of Illinois Chicago. Previously, I was an AI Research Resident at VinAI, where I was fortunate to work under the mentorship of Dr. Toan Tran. Before that, I received my Bachelor of Computer Science from Hanoi University of Science and Technology in Vietnam.
+Greetings! I am a second year PhD student in Computer Science at University of Illinois Chicago, where I am advised by [Prof. Bing Liu](https://www.cs.uic.edu/~liub/). Previously, I was an AI Research Resident at VinAI, where I was fortunate to work under the mentorship of [Dr. Toan Tran](https://scholar.google.com/citations?hl=en&user=PnwSuNMAAAAJ&view_op=list_works&sortby=pubdate). Before that, I received my Bachelor of Computer Science from Hanoi University of Science and Technology in Vietnam.
 
-My primary research interests focus out-of-distribution generalization and robustness in machine learning models.
+My primary research interests focus on reasoning, out-of-distribution generalization and robustness in machine learning models.
+
+<span style="color: red;">I am looking for Research/Applied Scientist internship positions for Fall 2026 and Spring/Summer 2027 on LLM reasoning. Please [reach out](mailto:anguy110@uic.edu) if you have open positions.</span>
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
 
+- *April 2026*: [DeltaStack](https://github.com/teeann/DeltaStack) has been accepted to ICML 2026. See you in Seoul 🇰🇷 this July!
 - *December 2024*: [CASUAL](https://arxiv.org/abs/2305.18458) has been accepted to AAAI 2025.
 - *August 2024*: I started my PhD studies at University of Illinois Chicago.
 <!-- <details> -->
