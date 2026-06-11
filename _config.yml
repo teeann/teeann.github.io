@@ -83,7 +83,7 @@ author:
   name             : "Anh T Nguyen"
   avatar           : "ava.jpg"
   bio              :
-  location         : "Hanoi, Vietnam"
+  # location         : "Hanoi, Vietnam"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=cbWwuJAAAAAJ&hl=en"
