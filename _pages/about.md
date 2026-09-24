@@ -29,6 +29,7 @@ My primary research interests focus on reasoning, out-of-distribution generaliza
 
 # 🔥 News
 
+- *September 2026*: [DeltaFugue](https://openreview.net/forum?id=twqMDZo9zz) has been accepted to NeurIPS 2026. See you in Atlanta 🇺🇸 this December!
 - *April 2026*: [DeltaStack](https://github.com/teeann/DeltaStack) has been accepted to ICML 2026. See you in Seoul 🇰🇷 this July!
 - *December 2024*: [CASUAL](https://arxiv.org/abs/2305.18458) has been accepted to AAAI 2025.
 - *August 2024*: I started my PhD studies at University of Illinois Chicago.
