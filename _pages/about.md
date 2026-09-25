@@ -72,12 +72,19 @@ My primary research interests focus on reasoning, out-of-distribution generaliza
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/dirrac.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 
+[DeltaFugue: Orchestrating Spatial and Associative Memory for Algorithmic Length Generalization](https://openreview.net/forum?id=twqMDZo9zz) \
+**Anh T Nguyen**, Quan Dao and Bing Liu. \\
+The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026), 2026. 
+
+[Push, Pop, Parallelize: Stack-Augmented Linear Attention via the Delta Rule](https://github.com/teeann/DeltaStack) \\
+**Anh T Nguyen**, Saleh Momeni, Ashutosh Chaubey, Changnan Xiao and Bing Liu. \\
+Forty-third International Conference on Machine Learning (ICML-2026), 2026. 
 
 [CASUAL: Conditional Support Alignment for Domain Adaptation with Label Shift](https://arxiv.org/abs/2305.18458) \\
 **Anh T Nguyen**, Lam Tran, Anh Tong, Tuan-Duy H. Nguyen and Toan Tran. \\
 The 39th Annual AAAI Conference on Artificial Intelligence, 2025. \\
 <!-- <a href="https://arxiv.org/abs/2302.11213"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=AISTATS 2023&color=blue"></a> -->
-<a href="https://arxiv.org/abs/2302.11213"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<!-- <a href="https://arxiv.org/abs/2302.11213"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a> -->
 <!-- <a href="https://github.com/"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a> -->
 
 
