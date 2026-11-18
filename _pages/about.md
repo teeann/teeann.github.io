@@ -19,13 +19,11 @@ redirect_from:
 
 # About Me
 
-Greetings! I am a second year PhD student in Computer Science at University of Illinois Chicago, where I am advised by [Prof. Bing Liu](https://www.cs.uic.edu/~liub/). Previously, I was an AI Research Resident at VinAI, where I was fortunate to work under the mentorship of [Dr. Toan Tran](https://scholar.google.com/citations?hl=en&user=PnwSuNMAAAAJ&view_op=list_works&sortby=pubdate). Before that, I received my Bachelor of Computer Science from Hanoi University of Science and Technology in Vietnam.
+Greetings! I am a third-year PhD student in Computer Science at the University of Illinois Chicago, advised by [Prof. Bing Liu](https://www.cs.uic.edu/~liub/). Before that, I received my Bachelor of Computer Science from Hanoi University of Science and Technology in Vietnam.
 
-My primary research interests focus on reasoning, out-of-distribution generalization and robustness in machine learning models.
+My research focuses on efficient and expressive sequence modeling for large language models. I am especially interested in linear attention and memory-augmented architectures, such as delta-rule models, that can learn and update structured memory at test time. More broadly, I care about how architectural choices shape LLM reasoning, length generalization, and out-of-distribution robustness. I am also interested in how pretraining and post-training can bring out these capabilities at scale.
 
-<span style="color: red;">I am looking for Research/Applied Scientist internship positions for Fall 2026 and Spring/Summer 2027 on LLM reasoning. Please [reach out](mailto:anguy110@uic.edu) if you have open positions.</span>
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+<span style="color: red;">I am looking for Research/Applied Scientist internship positions for Summer 2027, broadly on LLM pretraining and post-training. Please [reach out](mailto:anguy110@uic.edu) if you have open positions.</span>
 
 # 🔥 News
 
