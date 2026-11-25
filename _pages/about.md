@@ -23,8 +23,6 @@ Greetings! I am a third-year PhD student in Computer Science at the University o
 
 My research focuses on efficient and expressive sequence modeling for large language models. I am especially interested in linear attention and memory-augmented architectures, such as delta-rule models, that can learn and update structured memory at test time. More broadly, I care about how architectural choices shape LLM reasoning, length generalization, and out-of-distribution robustness. I am also interested in how pretraining and post-training can bring out these capabilities at scale.
 
-<span style="color: red;">I am looking for Research/Applied Scientist internship positions for Summer 2027, broadly on LLM pretraining and post-training. Please [reach out](mailto:anguy110@uic.edu) if you have open positions.</span>
-
 # 🔥 News
 
 - *September 2026*: [DeltaFugue](https://openreview.net/forum?id=twqMDZo9zz) has been accepted to NeurIPS 2026. See you in Atlanta 🇺🇸 this December!
